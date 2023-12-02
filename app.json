@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "chat-realtime-app",
+    "slug": "chat-realtime-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
